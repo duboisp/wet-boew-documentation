@@ -7,9 +7,19 @@ description: Web Experience Toolkit (WET) documentation
 modified: 2018-02-09
 ---
 
-# WET-BOEW documentation
-
-## Roadmap
+* Roadmap
+ - Projects
+ - Individual features
+ - Features request summary
+* [Design decision](expert-report/index-en.html)
+* Usability research
+ - Published report
+ - Suggestion of research
+* Assessement
+ - WCAG 2.0/2.1 Level AA
+ - Browser compatibilty
+ - Assistive technologies
+ - Suggestion of assessement
 
 ## Projects
 
@@ -18,6 +28,7 @@ modified: 2018-02-09
 * Documenting basic HTML design pattern
 * WCAG 2.1 Level AA conformance check for existing features
 
+**Status:** (2018-02-13) Validation of issue labeled "Work: Accessiblity" which are open and the closed ones with the label "State: Going Stale".
 
 ### React variant
 Use WET feature through a React web application
@@ -43,7 +54,3 @@ Design system to standardize the visual language and user experience of GC colla
 * **Deliverable:** Prototype downloadable in photoshop, Illustrator and Adobe XD files.
 * **History:**
   * 2018-02-09 : Initial entry
-
-## Expertise
-
-## Research
