@@ -8,18 +8,22 @@ modified: 2018-02-09
 ---
 
 * Roadmap
- - Projects
- - Individual features
- - Features request summary
+	* [WET project and its feature](roadmap-en.html)
+	* Projects
+	* Individual features
+	* Features request summary
 * [Design decision](expert-report/index-en.html)
 * Usability research
- - Published report
- - Suggestion of research
+	* Published report
+	* Suggestion of research
 * Assessement
- - WCAG 2.0/2.1 Level AA
- - Browser compatibilty
- - Assistive technologies
- - Suggestion of assessement
+	* WCAG 2.0/2.1 Level AA
+	* Browser compatibilty
+	* Assistive technologies
+	* Suggestion of assessement
+
+* [Internal project governance](governance/index-en.html)
+
 
 ## Projects
 
@@ -34,9 +38,9 @@ modified: 2018-02-09
 Use WET feature through a React web application
 
 Github related issue:
-* [#8150 - wet-toolkit integration with React Redux](https://github.com/wet-boew/wet-boew/issues/8150) 
+* [#8150 - wet-toolkit integration with React Redux](https://github.com/wet-boew/wet-boew/issues/8150)
 
-Working example: 
+Working example:
 * Todo: Insert link here
 
 Next step:
