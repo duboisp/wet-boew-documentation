@@ -78,11 +78,12 @@ Documents created via those meeting will be published on the wet-boew website.
 	* Review the scope of that new feature, is it global, theme only or for a small sub-set of pages.
 
 6. Result of PR review
-	a. Test passed and PR are merged in.
-	b. Error was found and change are requested
-	d. Concern was raised and 
+	1. Test passed and PR are merged in.
+	2. Error was found and change are requested
+	3. Concern was raised and 
 		* Instruction are provided on how to address it, or
 		* More details need to be provided either to describe the concern or to address the concern
+		* A mitigation plan is provided to address the concern
 
 
 ## Github lableling
