@@ -43,3 +43,6 @@ Location: 200 promenade du portage, Gatineau, Room 2D302
 * January 17, 2018
 * February 21, 2019
 
+### Meeting summary
+
+Brief description of what has been discussed during the meeting.

@@ -39,6 +39,52 @@ Documents created via those meeting will be published on the wet-boew website.
 * **Technical review meeting:** You can start by making contribution like submitting PR and participating in open issue.
 * **Roadmap meeting:** By pertinence for the wet-boew project.
 
+
+
+## Adding new WET feature
+
+1. Describe the new features
+	* For which audience
+	* What is the desired behaviour
+	* What is the need, what is the user end-goal
+	* Summary and link to similar feature (What is doing, advantage, disavantage...)
+
+2. Look how current tools can be used to archive something similar
+	* Describe the methodoly used
+	* What work
+	* What don't work
+
+3. Research of similar tools
+	* Name and small description of the tools
+	* Links
+	* Summary of the findings
+	* Working examples
+	* What sastisfied the requirement
+	* What is missing
+	* Concern (accessiblity, design pattern, configuration, integration, dependencies...)
+
+4. Develop the feature
+	* Prototype
+	* Optimize
+	* Create working example (English and French)
+	* Documentation (include API description)
+
+5. Submit PR with the new feature
+	* Provide a link to a working example
+	* Do an accessiblity assessment
+	* Review code (style, optimisation, identify potential issue...)
+	* Review the documentation
+	* Review and validate the accuracy of the API based from the working example provided
+	* Review the scope of that new feature, is it global, theme only or for a small sub-set of pages.
+
+6. Result of PR review
+	a. Test passed and PR are merged in.
+	b. Error was found and change are requested
+	d. Concern was raised and 
+		* Instruction are provided on how to address it, or
+		* More details need to be provided either to describe the concern or to address the concern
+
+
 ## Github lableling
 
 [See the discussion on github - Issue #8026](https://github.com/wet-boew/wet-boew/issues/8026)
