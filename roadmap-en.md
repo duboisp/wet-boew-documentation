@@ -14,11 +14,37 @@ modified: 2018-02-09
 
 Latest version: 4.0.27 released on 2017-12-14
 
-| Version | Planned for | Summary | Notes |
-| --- | --- | ---| --- |
-| 4.0.28 (dev) | 2018-03-06 | Bug fixes |
-| 4.1 | TBD | Not defined |
-| 5.0 (alpha) | 2018 | |
+{::nomarkdown}
+
+
+<table class="table table-bordered">
+	<tr>
+		<th>Version</th>
+		<th>Planned for</th>
+		<th>Summary</th>
+		<th>Notes</th>
+	</tr>
+	<tr>
+		<th>4.0.28 (dev)</th>
+		<td>2018-03-06</td>
+		<td>Bug fixes</td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>4.1</th>
+		<td>TBD</td>
+		<td>Not defined</td>
+		<td></td>
+	</tr>
+	<tr>
+		<th>5.0 (alpha)</th>
+		<td>2018</td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+
+{:/}
 
 
 ## Release of GCWeb
@@ -27,10 +53,24 @@ Release of GCWeb include fixes / improvement made to wet-boew.
 
 Latest released version: 4.0.27 on
 
-| Version | Planned for | Summary | Notes |
-| --- | --- | ---| --- |
-| 4.0.28 (dev) | 2018-03-06 | Bug fixes and a new plugin | Datalist JSON suggestion |
+{::nomarkdown}
 
+<table class="table table-bordered">
+	<tr>
+		<th>Version</th>
+		<th>Planned for</th>
+		<th>Summary</th>
+		<th>Notes</th>
+	</tr>
+	<tr>
+		<th>4.0.28 (dev)</th>
+		<td>2018-03-06</td>
+		<td>Bug fixes and a new plugin</td>
+		<td>Datalist JSON suggestion</td>
+	</tr>
+</table>
+
+{:/}
 
 
 ## WET Features (Plugins)
@@ -44,7 +84,6 @@ Latest released version: 4.0.27 on
 		<th>Dependancies</th>
 		<th>Next release</th>
 		<th>Todo / Issues</th>
-		<th>Notes</th>
 	</tr>
 
 	<tr>
@@ -69,7 +108,6 @@ Latest released version: 4.0.27 on
 		<td>
 			<p><a href="https://github.com/wet-boew/wet-boew/labels/Plugin%3A%20Charts%20and%20graphs">Github open issue</a></p>
 		</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>Collapsible alerts</td>
@@ -259,49 +297,49 @@ Latest released version: 4.0.27 on
 		<td>GCWeb</td>
 		<td></td>
 		<td></td>
-		<td>></td>
+		<td></td>
 	</tr>
 	<tr>
 		<th>Data JSON</th>
 		<td>GCWeb</td>
 		<td></td>
 		<td></td>
-		<td>></td>
+		<td></td>
 	</tr>
 	<tr>
 		<th>Do action</th>
 		<td>GCWeb</td>
 		<td></td>
 		<td></td>
-		<td>></td>
+		<td></td>
 	</tr>
 	<tr>
 		<th>Action manager</th>
 		<td>GCWeb</td>
 		<td></td>
 		<td></td>
-		<td>></td>
+		<td></td>
 	</tr>
 	<tr>
 		<th>Fieldflow</th>
 		<td>GCWeb</td>
 		<td></td>
 		<td></td>
-		<td>></td>
+		<td></td>
 	</tr>
 	<tr>
 		<th>JSON manager</th>
 		<td>GCWeb</td>
 		<td></td>
 		<td></td>
-		<td>></td>
+		<td></td>
 	</tr>
 	<tr>
 		<th>URL mapping</th>
 		<td>GCWeb</td>
 		<td></td>
 		<td></td>
-		<td>></td>
+		<td></td>
 	</tr>
 
 </table>
@@ -311,6 +349,8 @@ Latest released version: 4.0.27 on
 
 <h2>Polyfill</h2>
 
+<p>General note: Each polyfill need to be re-evaluated to know if they are still relevant, and if they are still conform to the latest HTML5 specification.</p>
+
 <table class="table table-bordered">
 	<tr>
 		<th>Name</th>
@@ -318,7 +358,6 @@ Latest released version: 4.0.27 on
 		<th>Version</th>
 		<th>Specification</th>
 		<th>Up to spec</th>
-		<th>Todo / Issues</th>
 		<th>Notes</th>
 	</tr>
 
@@ -331,7 +370,6 @@ Latest released version: 4.0.27 on
 				<li><a href="https://www.w3.org/TR/html/sec-forms.html#the-datalist-element">HTML 5.1, 4.10.8. <code>datalist</code></a></li>
 			</ul>
 		</td>
-		<td></td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -347,7 +385,6 @@ Latest released version: 4.0.27 on
 		</td>
 		<td></td>
 		<td></td>
-		<td></td>
 	</tr>
 	<tr>
 		<td><a href="http://wet-boew.github.io/wet-boew/docs/ref/datepicker/datepicker-en.html">Input type="date" (date picker)</a></td>
@@ -360,7 +397,6 @@ Latest released version: 4.0.27 on
 		</td>
 		<td></td>
 		<td></td>
-		<td></td>
 	</tr>
 	<tr>
 		<td><a href="http://wet-boew.github.io/wet-boew/docs/ref/slider/slider-en.html">Input type="range" (slider control)</a></td>
@@ -371,7 +407,6 @@ Latest released version: 4.0.27 on
 				<li><a href="https://www.w3.org/TR/html/sec-forms.html#range-state-typerange">HTML 5.1, 4.10.5.1.13. <code>type=range</code></a></li>
 			</ul>
 		</td>
-		<td></td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -387,7 +422,6 @@ Latest released version: 4.0.27 on
 		</td>
 		<td></td>
 		<td></td>
-		<td></td>
 	</tr>
 	<tr>
 		<td><a href="http://wet-boew.github.io/wet-boew/docs/ref/meter/meter-en.html">Meter</a></td>
@@ -401,7 +435,6 @@ Latest released version: 4.0.27 on
 		</td>
 		<td></td>
 		<td></td>
-		<td></td>
 	</tr>
 	<tr>
 		<td><a href="http://wet-boew.github.io/wet-boew/docs/ref/progress/progress-en.html">Progress (progress bar)</a></td>
@@ -413,7 +446,6 @@ Latest released version: 4.0.27 on
 				<li><a href="https://www.w3.org/TR/html/rendering.html#the-progress-element-rendering">HTML 5.1, 10.5.13. Rendering (Bindings)</a></li>
 			</ul>
 		</td>
-		<td></td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -433,8 +465,8 @@ Latest released version: 4.0.27 on
 
 <ul>
 	<li>[Other] <a href="http://wet-boew.github.io/v4.0-ci/demos/arb-rra/arb-rra-en.html">Accessibility responsibility breakdown (WCAG 2.0)</a></li>
-	<li>[Other] <a href="http://wet-boew.github.io/v4.0-ci/demos/archived/archived-en.html">Archived - Archived information</a></li>
-	<li>[Other] <a href="http://wet-boew.github.io/v4.0-ci/demos/feedback/feedback-en.html">Feedback form</a></li>
+	<li>[Other - UI Design example] <a href="http://wet-boew.github.io/v4.0-ci/demos/archived/archived-en.html">Archived - Archived information</a></li>
+	<li>[Other - UI Design example] <a href="http://wet-boew.github.io/v4.0-ci/demos/feedback/feedback-en.html">Feedback form</a></li>
 	<li>[Other] <a href="http://wet-boew.github.io/v4.0-ci/demos/transitions/transitions-en.html">Transitions</a></li>
 	<li>[Other] <a href="http://wet-boew.github.io/v4.0-ci/demos/wamethod/wamethod-AA-en.html">Web Accessibility Assessment Methodology (Level AA)</a></li>
 	<li>[Other] <a href="http://wet-boew.github.io/v4.0-ci/demos/wamethod/wamethod-AAA-en.html">Web Accessibility Assessment Methodology (Level AAA)</a></li>
@@ -454,7 +486,7 @@ Latest released version: 4.0.27 on
 
 <section>
 	<h3>Table parser</h3>
-	<p>(was updated on June 15, 2016)</p>
+	<p>(The following informatoin was updated on June 15, 2016)</p>
 	<ul>
 		<li>Github issue
 			<ul>
