@@ -54,13 +54,17 @@ Next step:
 * Contribute to WET documentation API to enable React developper to use WET feature
 
 
-## Idea for new feature request
+{::nomarkdown}
+<h2 id="featurerequest">Features request and new project idea</h2>
+{:/}
 
-The following project idea was brought up, but there is no known official development team that are working on it. If you are interested to take over and lead one of the following project, please contact us by submitting an [issue on github](https://github.com/wet-boew/wet-boew/issues/new) or by joining us at the Roadmap meeting. The roadmap meeting information are available on the wet-boew group on [GCcollab.ca](https://gccollab.ca/login)
+The following project idea (feature request) was brought up, but there is no known official development team that are working on it. If you are interested to take over and lead one of the following project, please contact us by submitting an [issue on github](https://github.com/wet-boew/wet-boew/issues/new) or by joining us at the Roadmap meeting. The roadmap meeting information are available on the wet-boew group on [GCcollab.ca](https://gccollab.ca/login)
 
 ### Angular
 
 Need for more documentation on how WET can be integrated with Angular. For instruction on how pages can be designed to ensure the "Basic HTML mode" continue to work as expected. For instruction on how to design web interface that support Basic HTML and the angular enhanced mode.
+
+* [Github wet-boew issue #8206](https://github.com/wet-boew/wet-boew/issues/8206)
 
 ### Compare product
 

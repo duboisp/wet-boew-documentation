@@ -81,9 +81,9 @@ Documents created via those meeting will be published on the wet-boew website.
 	1. Test passed and PR are merged in.
 	2. Error was found and change are requested
 	3. Concern was raised and 
-		* Instruction are provided on how to address it, or
-		* More details need to be provided either to describe the concern or to address the concern
-		* A mitigation plan is provided to address the concern
+		* Instruction are provided on how to address concern, or
+		* More details need to be provided to describe the concern, or
+		* A mitigation plan would be proposed to address the concern
 
 
 ## Github lableling

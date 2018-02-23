@@ -10,13 +10,14 @@ modified: 2018-02-21
 * Roadmap
 	* [WET project and its feature](roadmap-en.html)
 	* [Projects](projects-en.html)
-	* Individual features
-	* Features request summary
+	* [Features request and new project idea](projects-en.html#featurerequest)
+	* [Research and findings](research-en.html)
+	* [Mitigation plan](mitigation-en.html)
 * [Design decision](expert-report/index-en.html)
 * Usability research
 	* UX findings
-	* Published report
-	* Suggestion of research
+	* UX report
+	* Suggestion for UX research
 * Assessement
 	* WCAG 2.0/2.1 Level AA
 	* Browser compatibilty
