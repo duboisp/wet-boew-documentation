@@ -248,9 +248,11 @@ Label color: #EE8310
 * State: Going stale - Historically used to identify a issue that didn't got immediate and active public interest.
 * State: Last call - An official deadline is now set where a decision could be made relatively about the current issue. In order word, interested party should speak up if they don't want the issue to be closed.
 * State: On hold - Represent an issue that need to be considered for a future major milestone.
+* State: Not supported - The issue is about unsupported feature or block of code.
 * State: Ready for implementation - Means that the topic was discussed thoroughly and a solution are defined and it's now ready to be implemented.
 * State: Resolved - An acceptable solution have been provided and the issue would be closed after a reasonable period of time. After the period, it will be assumed the author has accepted the acceptable solution.
 * State: Work in progress - Represent an issue that is currently under active development and progression is reported frequently.
+
 
 ### User Agent
 

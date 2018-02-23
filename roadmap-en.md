@@ -10,6 +10,22 @@ modified: 2018-02-09
 
 ## Release of WET
 
+[Nightly build](https://github.com/wet-boew/wet-boew-dist/archive/v4.0-dist.zip)
+
+Notes:
+
+* 2018-02-23 - Major update on the build script.
+	* **Github related PR and issue**: 
+		* [#8295](https://github.com/wet-boew/wet-boew/pull/8295)
+		* [#8253](https://github.com/wet-boew/wet-boew/pull/8253)
+		* [#8247](https://github.com/wet-boew/wet-boew/issues/8247)
+		* [#8228](https://github.com/wet-boew/wet-boew/pull/8228)
+		* [#8147](https://github.com/wet-boew/wet-boew/pull/8147)
+	* **What that means?:** WET developer would need to re-run "script/setup" on each of their local instance.
+	* **Know issue:** GCWeb build script, and other theme, need to be updated. Their build script are currently broken.
+
+### Roadmap
+
 [Looking to download stable release of WET?](http://wet-boew.github.io/wet-boew/docs/versions/dwnld-en.html)
 
 Latest version: 4.0.27 released on 2017-12-14

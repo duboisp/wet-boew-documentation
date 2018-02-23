@@ -29,4 +29,5 @@ Here a list of similar tools that was found on a February 2018 research
 	* The javascript code don't seems to be optimized, there is a lot of repeative code.
 	* The solution simulate the "suggestion" panel, more testing need to be done.
 
-
+* [chevaliersnoc.hockeygatineau.com/index.php?page=calendar](chevaliersnoc.hockeygatineau.com/index.php?page=calendar)
+* [http://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra](http://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra) - Reverse engenering suggestion for when typing in the field "Terme à cherche"
